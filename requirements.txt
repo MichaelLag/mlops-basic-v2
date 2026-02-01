@@ -6,7 +6,6 @@ async-lru==2.0.4
 attrs==25.3.0
 babel==2.18.0
 backcall==0.2.0
--e git+https://github.com/MichaelLag/mlops-basic-v2.git@b1e3a4e4a0e3e15edc52ea5a126928f932db361a#egg=basic_mlops_v2
 beautifulsoup4==4.14.3
 bleach==6.1.0
 certifi==2026.1.4
