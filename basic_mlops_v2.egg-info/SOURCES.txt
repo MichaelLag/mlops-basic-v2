@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+./src/__init__.py
+./src/utils.py
+basic_mlops_v2.egg-info/PKG-INFO
+basic_mlops_v2.egg-info/SOURCES.txt
+basic_mlops_v2.egg-info/dependency_links.txt
+basic_mlops_v2.egg-info/top_level.txt
+tests/test_utils.py
