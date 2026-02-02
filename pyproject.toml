@@ -20,6 +20,7 @@ addopts = "-q"
 
 [tool.ruff]
 line-length = 100
+exclude = ["notebooks"]
 
 [tool.ruff.lint]
 select = ["E", "F", "I"]  # basic errors, pyflakes, import sorting
